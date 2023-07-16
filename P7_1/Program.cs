@@ -12,7 +12,7 @@ int ReadInt(string massage)
     return Convert.ToInt32(Console.ReadLine());
 }
 
-void PrintArray2d(int[,] numbers)
+void PrintArray2d(double[,] numbers)
 {
     for (int i = 0; i < numbers.GetLength(0); i++)
     {
@@ -23,19 +23,18 @@ void PrintArray2d(int[,] numbers)
         Console.WriteLine();
 
     }
+    Console.WriteLine();
 }
 
-int[,] GenerateArray2d(int rows, int columns, int min, int max)
+double[,] GenerateArray2d(int rows, int columns, int min, int max)
 {
-    int[,] numbers = new int[rows, columns];
+    double[,] numbers = new double[rows, columns];
     Random rnd = new Random();
-    double min = 0;
-    double max = 0;
-    for (double i = 0; i < numbers.GetLength(0); i++)
+        for (int i = 0; i < numbers.GetLength(0); i++)
     {
-        for (double j = 0; j < numbers.GetLength(1); j++)
+        for (int j = 0; j < numbers.GetLength(1); j++)
         {
-            numbers[i, j] = rnd.Next(min, max + 1);
+            numbers[i, j] = rnd.Next(min, max + 1)/10.0;
         }
     }
     return numbers;
@@ -46,5 +45,5 @@ int[,] GenerateArray2d(int rows, int columns, int min, int max)
 
 int rows = ReadInt("Введите количество строк >");
 int columns = ReadInt("Введите количество столбцов >");
-double[,] array = GenerateArray2d(rows, columns, -0,9, 0,8);
+double[,] array = GenerateArray2d(rows, columns, -10, 10);
 PrintArray2d(array);
