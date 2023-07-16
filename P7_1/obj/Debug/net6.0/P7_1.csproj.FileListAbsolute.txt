@@ -1,0 +1,15 @@
+C:\Users\VIKSER\OneDrive\Рабочий стол\ДЗ_Сем_7\P7_1\obj\Debug\net6.0\P7_1.csproj.AssemblyReference.cache
+C:\Users\VIKSER\OneDrive\Рабочий стол\ДЗ_Сем_7\P7_1\obj\Debug\net6.0\P7_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIKSER\OneDrive\Рабочий стол\ДЗ_Сем_7\P7_1\obj\Debug\net6.0\P7_1.AssemblyInfoInputs.cache
+C:\Users\VIKSER\OneDrive\Рабочий стол\ДЗ_Сем_7\P7_1\obj\Debug\net6.0\P7_1.AssemblyInfo.cs
+C:\Users\VIKSER\OneDrive\Рабочий стол\ДЗ_Сем_7\P7_1\obj\Debug\net6.0\P7_1.csproj.CoreCompileInputs.cache
+C:\Users\VIKSER\OneDrive\Рабочий стол\ДЗ_Сем_7\P7_1\bin\Debug\net6.0\P7_1.exe
+C:\Users\VIKSER\OneDrive\Рабочий стол\ДЗ_Сем_7\P7_1\bin\Debug\net6.0\P7_1.deps.json
+C:\Users\VIKSER\OneDrive\Рабочий стол\ДЗ_Сем_7\P7_1\bin\Debug\net6.0\P7_1.runtimeconfig.json
+C:\Users\VIKSER\OneDrive\Рабочий стол\ДЗ_Сем_7\P7_1\bin\Debug\net6.0\P7_1.dll
+C:\Users\VIKSER\OneDrive\Рабочий стол\ДЗ_Сем_7\P7_1\bin\Debug\net6.0\P7_1.pdb
+C:\Users\VIKSER\OneDrive\Рабочий стол\ДЗ_Сем_7\P7_1\obj\Debug\net6.0\P7_1.dll
+C:\Users\VIKSER\OneDrive\Рабочий стол\ДЗ_Сем_7\P7_1\obj\Debug\net6.0\refint\P7_1.dll
+C:\Users\VIKSER\OneDrive\Рабочий стол\ДЗ_Сем_7\P7_1\obj\Debug\net6.0\P7_1.pdb
+C:\Users\VIKSER\OneDrive\Рабочий стол\ДЗ_Сем_7\P7_1\obj\Debug\net6.0\P7_1.genruntimeconfig.cache
+C:\Users\VIKSER\OneDrive\Рабочий стол\ДЗ_Сем_7\P7_1\obj\Debug\net6.0\ref\P7_1.dll
